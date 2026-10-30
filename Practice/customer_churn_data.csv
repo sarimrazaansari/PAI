@@ -1,0 +1,11 @@
+ID,Gender,Age,Contract,Bill,Churn
+101,Male,25,Monthly,50,0
+102,Female,45,Annual,100,1
+103,Female,30,Monthly,45,0
+104,Male,50,Annual,110,1
+105,Female,22,Monthly,55,0
+106,None,35,Monthly,60,0
+107,Male,NaN,Annual,105,1
+108,Female,60,None,95,0
+109,Male,42,Two Year,120,1
+110,Female,33,Monthly,65,0
